@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73553" started-at="2021-12-06T12:34:49 CET" finished-at="2021-12-06T12:36:02 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73553" started-at="2021-12-06T12:34:49 CET" finished-at="2021-12-06T12:36:02 CET">
+      <class name="tests.GalleryAppTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="beforeMethod" is-config="true" duration-ms="4093" started-at="2021-12-06T12:34:49 CET" finished-at="2021-12-06T12:34:53 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CreateGalery()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="CreateGalery" duration-ms="25841" started-at="2021-12-06T12:34:53 CET" finished-at="2021-12-06T12:35:19 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateGalery -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="afterMethod" is-config="true" duration-ms="783" started-at="2021-12-06T12:35:19 CET" finished-at="2021-12-06T12:35:19 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateGalery status=SUCCESS method=GalleryAppTest.CreateGalery()[pri:0, instance:tests.GalleryAppTest@646d64ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="beforeMethod" is-config="true" duration-ms="2558" started-at="2021-12-06T12:35:19 CET" finished-at="2021-12-06T12:35:22 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="FindGalleryTest()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="FindGalleryTest" duration-ms="12573" started-at="2021-12-06T12:35:22 CET" finished-at="2021-12-06T12:35:34 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FindGalleryTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="afterMethod" is-config="true" duration-ms="828" started-at="2021-12-06T12:35:34 CET" finished-at="2021-12-06T12:35:35 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=FindGalleryTest status=SUCCESS method=GalleryAppTest.FindGalleryTest()[pri:0, instance:tests.GalleryAppTest@646d64ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="beforeMethod" is-config="true" duration-ms="2050" started-at="2021-12-06T12:35:35 CET" finished-at="2021-12-06T12:35:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="LoginTest" duration-ms="10836" started-at="2021-12-06T12:35:37 CET" finished-at="2021-12-06T12:35:48 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="afterMethod" is-config="true" duration-ms="828" started-at="2021-12-06T12:35:48 CET" finished-at="2021-12-06T12:35:49 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTest status=SUCCESS method=GalleryAppTest.LoginTest()[pri:0, instance:tests.GalleryAppTest@646d64ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="beforeMethod" is-config="true" duration-ms="2458" started-at="2021-12-06T12:35:49 CET" finished-at="2021-12-06T12:35:51 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Logut()[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="Logut" duration-ms="9931" started-at="2021-12-06T12:35:51 CET" finished-at="2021-12-06T12:36:01 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logut -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.GalleryAppTest@646d64ab]" name="afterMethod" is-config="true" duration-ms="734" started-at="2021-12-06T12:36:01 CET" finished-at="2021-12-06T12:36:02 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Logut status=SUCCESS method=GalleryAppTest.Logut()[pri:0, instance:tests.GalleryAppTest@646d64ab] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.GalleryAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
